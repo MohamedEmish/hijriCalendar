@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/datepicker_layout.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/layout/timepicker_layout.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/drawable/mdtp_done_background_color_dark.xml" value="0.2185" />
+        <entry key="hijriCalendar/src/main/res/layout-land/hdp_mdtp_date_picker_dialog.xml" value="0.6338541666666667" />
+        <entry key="hijriCalendar/src/main/res/layout-land/hdp_mdtp_date_picker_dialog_v2.xml" value="0.6338541666666667" />
+        <entry key="hijriCalendar/src/main/res/layout-w270dp-h560dp/hdp_mdtp_date_picker_dialog.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_dialog.xml" value="0.47125" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_dialog_v2.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_header_view.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_header_view_v2.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_selected_date.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_selected_date_v2.xml" value="0.19635416666666666" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_date_picker_view_animator.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_hijri_date_picker_dialog.xml" value="0.90125" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_hijri_date_picker_header_view.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_hijri_date_picker_header_view_v2.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_hijri_date_picker_selected_date_v2.xml" value="0.19635416666666666" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_hijri_year_label_text_view.xml" value="0.37552083333333336" />
+        <entry key="hijriCalendar/src/main/res/layout/hdp_mdtp_time_picker_dialog.xml" value="0.37552083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
